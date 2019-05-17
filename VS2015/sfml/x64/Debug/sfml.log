@@ -1,0 +1,30 @@
+﻿  main.cpp
+c:\users\admin\desktop\sim-sfml\02\sfml\main.cpp(32): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\desktop\sim-sfml\02\sfml\main.cpp(36): warning C4305: =: усечение из "double" в "float"
+c:\users\admin\desktop\sim-sfml\02\sfml\main.cpp(42): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\admin\desktop\sim-sfml\02\sfml\main.cpp(69): warning C4305: =: усечение из "double" в "float"
+c:\users\admin\desktop\sim-sfml\02\sfml\main.cpp(77): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\admin\desktop\sim-sfml\02\sfml\main.cpp(78): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\admin\desktop\sim-sfml\02\sfml\main.cpp(79): warning C4244: инициализация: преобразование "float" в "size_t", возможна потеря данных
+c:\users\admin\desktop\sim-sfml\02\sfml\main.cpp(90): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\admin\desktop\sim-sfml\02\sfml\main.cpp(101): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\admin\desktop\sim-sfml\02\sfml\main.cpp(102): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\admin\desktop\sim-sfml\02\sfml\main.cpp(108): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\desktop\sim-sfml\02\sfml\main.cpp(112): warning C4244: инициализация: преобразование "float" в "uint32_t", возможна потеря данных
+c:\users\admin\desktop\sim-sfml\02\sfml\main.cpp(117): warning C4244: инициализация: преобразование "T" в "uint32_t", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\admin\desktop\sim-sfml\02\sfml\main.cpp(120): warning C4244: =: преобразование "float" в "uint32_t", возможна потеря данных
+c:\users\admin\desktop\sim-sfml\02\sfml\main.cpp(145): warning C4244: +=: преобразование "sf::Int64" в "uint32_t", возможна потеря данных
+c:\users\admin\desktop\sim-sfml\02\sfml\main.cpp(150): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  sfml.vcxproj -> C:\Users\admin\Desktop\sim-sfml\02\x64\Debug\sfml.exe
